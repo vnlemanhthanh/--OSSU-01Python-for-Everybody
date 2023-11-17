@@ -12647,6 +12647,7 @@ Sessionx.vim
 ### Nohup template
 nohup.out
 
-!/chapter1/
-!/chapter1/__init__.py
-!/chapter1/hello.py
+!/chapter00/
+!/chapter00/hello.py
+!/chapter01/
+
