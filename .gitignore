@@ -720,7 +720,7 @@ cover/
 #Pipfile.lock
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
-#__pypackages__/
+__pypackages__/
 
 
 ### Symfony template
@@ -12647,6 +12647,4 @@ Sessionx.vim
 ### Nohup template
 nohup.out
 
-!/hello.py
-!/hello.py
 !/hello.py
