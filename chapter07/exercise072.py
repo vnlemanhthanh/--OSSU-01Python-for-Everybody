@@ -22,3 +22,4 @@ for line in fhand:
     tot += num
 
 print('Average spam confidence:', tot/count)
+
